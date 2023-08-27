@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/diamonds/static/css/main.e6c13ad2.css",
+    "main.js": "/diamonds/static/js/main.fe50403c.js",
+    "static/js/787.0638453a.chunk.js": "/diamonds/static/js/787.0638453a.chunk.js",
+    "index.html": "/diamonds/index.html",
+    "main.e6c13ad2.css.map": "/diamonds/static/css/main.e6c13ad2.css.map",
+    "main.fe50403c.js.map": "/diamonds/static/js/main.fe50403c.js.map",
+    "787.0638453a.chunk.js.map": "/diamonds/static/js/787.0638453a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.fe50403c.js"
+  ]
+}
